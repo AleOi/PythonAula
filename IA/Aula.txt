@@ -1,0 +1,28 @@
+Anotações da aula de redes neurais Sansung:
+
+Deep Learning é o non deep learning
+mas com mais camadas
+
+Machine learning é muito ruim para entradas como figuras 
+onde atributos são pixels
+
+Deep learning tem maior capacidade de generalizar
+
+CPU vs GPU
+Otimizadodores
+SGD : Stochastic Gradient Descent
+RMSProp
+Adagrad
+Adam
+Outros : Cada um deve ler paper
+Cada um tem sua aplicação específica
+
+Overfitting
+Evitar:
+Dropout
+Regularizadores
+
+Verificação da curva de erro
+
+Utilização de playground tensorflow para verificar 
+comportamento da rede neural
